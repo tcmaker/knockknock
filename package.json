@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tcmaker/knockknock/issues"
   },
-  "homepage": "https://github.com/tcmaker/knockknock#readme"
+  "homepage": "https://github.com/tcmaker/knockknock#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
