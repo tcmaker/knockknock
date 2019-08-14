@@ -1,0 +1,19 @@
+{
+  "name": "knockknock",
+  "version": "0.0.1",
+  "description": "Door controller for Twin Cities Maker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcmaker/knockknock.git"
+  },
+  "author": "Stephen Van Dahm <code@vandahm.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcmaker/knockknock/issues"
+  },
+  "homepage": "https://github.com/tcmaker/knockknock#readme"
+}
